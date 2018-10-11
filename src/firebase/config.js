@@ -3,12 +3,12 @@ import 'firebase/storage';
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyCnaBxOGIEqO3LmTtyx-atMTPMv48RGsA8",
-    authDomain: "users-57f01.firebaseapp.com",
-    databaseURL: "https://users-57f01.firebaseio.com",
-    projectId: "users-57f01",
-    storageBucket: "users-57f01.appspot.com",
-    messagingSenderId: "993082048130"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
